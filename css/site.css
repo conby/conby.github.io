@@ -1,0 +1,100 @@
+.bodytext {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 16px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.mlinktext {
+	FONT-WEIGHT: italic; FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 16px; FONT-STYLE: italic; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subhead {
+	BACKGROUND-IMAGE: url(../images/sub1.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subhead2 {
+	BACKGROUND-IMAGE: url(../images/sub2.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subhead3 {
+	BACKGROUND-IMAGE: url(../images/sub3.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.0719 {
+	BACKGROUND-IMAGE: url(../images/sub0719.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subhead32 {
+	BACKGROUND-IMAGE: url(../images/sub32.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subhead4 {
+	BACKGROUND-IMAGE: url(../images/sub4.gif); background-repeat: no-repeat; BORDER-RIGHT: #6699cc 0px solid; BORDER-TOP: #6699cc 0px solid; BORDER-LEFT: #6699cc 0px solid; WIDTH: 100%; BORDER-BOTTOM: #6699cc 0px solid; BACKGROUND-COLOR: #ffffff; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.linktext1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-STYLE: normal; FONT-FAMILY: sans-serif
+}
+#pagehead {
+	BACKGROUND-IMAGE: url(../images/logo_bk.gif)
+}
+#pagehead1 {
+	BACKGROUND-IMAGE: url(../images/logo_bk.gif)
+}
+#showbg {
+	BACKGROUND-IMAGE: url(../images/wmap.gif); background-repeat: no-repeat
+}
+#showbg1 {
+	
+}
+#showbg2 {
+	BACKGROUND-IMAGE: url(../images/logo_bk.gif);
+}
+.menubar {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 16px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menubar2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #336633; LINE-HEIGHT: 14px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.link2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #666666; LINE-HEIGHT: 12px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.smalltext {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #666666; LINE-HEIGHT: 12px; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodyverdana10 {
+	FONT: 10px/12px Verdana, Arial, Helvetica, sans-serif; COLOR: #663300; TEXT-DECORATION: none
+}
+.sidehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000066; LINE-HEIGHT: 24px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.button {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; FONT-SIZE: x-small; BACKGROUND: #c2d7eb; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+FORM#search {
+	MARGIN-TOP: 12px; MARGIN-BOTTOM: 7px; MARGIN-RIGHT: 12px
+}
+FORM#search INPUT.text {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; FONT-SIZE: x-small; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.header1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.header2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subheader_text12 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 7px; COLOR: #000000; PADDING-TOP: 7px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.nav_link {
+	font-size: 12px;COLOR: blue; TEXT-DECORATION: none
+}
+.STYLE1 {font-size: 12px}
+.STYLE7 {font-size: 12px; }
+.STYLE8 {font-size: 11px}
+.normal {	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000000; LINE-HEIGHT: 18px; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.STYLE9 {
+	color: #2259D5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.STYLE10 {font-size: 13px}
+.STYLE29 {
+	color: #F7941D;
+	font-family: "新宋体";
+	font-size: 12px;
+}
+.STYLE30 {font-size: 12px; font-family: "新宋体"; }

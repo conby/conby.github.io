@@ -1,0 +1,57 @@
+.white {
+	FONT-SIZE: 9pt; COLOR: #8c868c; LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #ffffff
+}
+.no {
+	FONT-SIZE: 9pt; COLOR: #8c868c; LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.td1 {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #406ca5
+}
+.td2 {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #384e76
+}
+.down {
+	FONT-SIZE: 9pt; COLOR: #8c868c; LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #ededed
+}
+.white1 {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 9pt; COLOR: #8c868c; LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #ffffff
+}
+A.a:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.a:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.a:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #336699; TEXT-DECORATION: underline
+}
+.input {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.input2 {
+	FONT-SIZE: 12px; COLOR: #69696b; LINE-HEIGHT: 135%; FONT-FAMILY: seoul,arial
+}
+.button {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.BODY {
+	SCROLLBAR-FACE-COLOR: #dbdbdb; FONT-SIZE: 9pt; SCROLLBAR-HIGHLIGHT-COLOR: #bbbbbb; SCROLLBAR-SHADOW-COLOR: #bbbbbb; COLOR: #8c868c; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #f3f3f3; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; LETTER-SPACING: -1px; BACKGROUND-COLOR: #ffffff
+}
+.td3 {
+	FONT-SIZE: 9pt; COLOR: #999999; LINE-HEIGHT: 20px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #eeeeee
+}
+.biao {
+	FONT-SIZE: 9pt; COLOR: #999999; LINE-HEIGHT: 22px; FONT-FAMILY: "Courier New", "Courier", "mono"
+}
+.leftmenu {
+	FONT-WEIGHT: bolder; FONT-SIZE: 9pt; COLOR: #006699; LINE-HEIGHT: 22px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; BACKGROUND-COLOR: #eeeeee
+}
