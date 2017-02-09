@@ -7,7 +7,7 @@ document.writeln("          <TD vAlign=center height=25> ");
 document.writeln("            <P>&nbsp;</P></TD></TR> ");
 document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 document.writeln("          <TD vAlign=center height=90> ");
-document.writeln("            <P><A href=\"#\"><IMG height=90  ");
+document.writeln("            <P><A href=\"#\"><IMG ");
 document.writeln("            alt=IPv6 src=\"images/ipv6-launch.png\" border=0></A></P></TD></TR> ");
 //document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 //document.writeln("          <TD vAlign=center height=6> ");
