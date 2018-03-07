@@ -43,5 +43,5 @@ document.writeln("            face=\"Verdana, Arial, Helvetica, sans-serif\" col
 
 document.writeln("            size=2>|</FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" ");
 document.writeln("            size=2>&nbsp;</FONT> </P> ");
-document.writeln("            <P><SPAN class=smalltext>Copyright &copy;2004-2017 Conby Information Technology Co., Ltd.  All rights reserved. </SPAN></P> ");
+document.writeln("            <P><SPAN class=smalltext>Copyright &copy;2004-2018 Conby Information Technology Co., Ltd.  All rights reserved. </SPAN></P> ");
 document.writeln("");
