@@ -1,5 +1,5 @@
 //var conbycloudURL = "http://labs.conby.com/logger";
-var conbycloudURL = "http://conby.com/c3/logger.gif";
+var conbycloudURL = "http://www.conby.com/c3/logger.gif";
 
 function GetCookieVal(offset)
 {
