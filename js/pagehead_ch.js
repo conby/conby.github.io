@@ -16,7 +16,7 @@ document.writeln("          <TD id=showbg2 valign=center align=center width=\"3%
 document.writeln("          <TD id=pagehead width=\"96%\" valign=center align=center height=70 ><div id=pagehead> ");
 document.writeln("            <A name=topofpage></A><A  ");
 document.writeln("            href=\"index_ch.html\"><IMG height=46 ");
-document.writeln("            src=\"images/logo_dg_ch.gif\" title=\"@conby, 移动互联传播 | 新媒体传播 | 云计算解决方案\" ");
+document.writeln("            src=\"images/logo_dg_ch.gif\" title=\"@conby, 机器学习 | 智能设备 | 增强现实解决方案\" ");
 document.writeln("        border=0></A></div></TD></TR></TBODY></TABLE></TD></TR>");
 /*
 document.writeln("  <TR vAlign=top align=left bgColor=#ffffff> ");
