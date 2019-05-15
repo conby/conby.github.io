@@ -102,7 +102,7 @@ if(cc_cookie == '1')
 {
 	if(GetCookie('ccc_id')== null) {
 	  var cct_id = cc_pad(new Date().format("yyyyMMddhhmmssS"),20);
-	  SetCookie('ccc_id',cct_id,3153600000,'/','.conby.com');
+	  SetCookie('ccc_id',cct_id,1576800000,'/','.conby.com');
 	}
 }
 
