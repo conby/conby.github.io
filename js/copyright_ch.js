@@ -21,7 +21,7 @@ document.writeln("            href=\"about_ch.html\">关于我们</A></FONT><FON
 document.writeln("            face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 ");
 document.writeln("            size=2>|</FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" ");
 document.writeln("            size=2>&nbsp;<A class=link2 ");
-document.writeln("            href=\"services_ch.html\">传播服务</A></FONT><FONT ");
+document.writeln("            href=\"services_ch.html\">运营服务</A></FONT><FONT ");
 document.writeln("            face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 ");
 document.writeln("            size=2>|</FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" ");
 document.writeln("            size=2>&nbsp;<A class=link2 ");
