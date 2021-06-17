@@ -20,7 +20,7 @@ document.writeln("          <TD vAlign=center height=8> ");
 document.writeln("            <P><IMG src=\"images/blank.png\" border=0 height=8></P></TD></TR> ");
 document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 document.writeln("          <TD vAlign=center height=60> ");
-document.writeln("            <P><IMG alt=BOXAI src=\"https://conby-1253224628.cos.ap-guangzhou.myqcloud.com/logo2.png\" border=0 height=52></P></TD></TR> ");
+document.writeln("            <P><a href=\"https://api.conby.com\"><IMG alt=BOXAI src=\"https://conby-1253224628.cos.ap-guangzhou.myqcloud.com/logo2.png\" border=0 height=52></a></P></TD></TR> ");
 //document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 //document.writeln("          <TD vAlign=center height=125> ");
 //document.writeln("            <P><A href=\"#\"><IMG height=125  ");
