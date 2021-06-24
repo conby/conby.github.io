@@ -27,7 +27,7 @@ document.writeln("            <P><a href=\"https://api.conby.com\"><IMG alt=BOXA
 //document.writeln("            alt=logo src=\"images/list3.gif\" width=125 border=0></A></P></TD></TR> ");
 document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 document.writeln("          <TD vAlign=center height=6> ");
-document.writeln("            <P>&nbsp;</P></TD></TR> ");
+document.writeln("            <P>&nbsp;<IMG src=\"http://api.conby.com/pub/blank.png\" border=0 height=1></P></TD></TR> ");
 //document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 //document.writeln("          <TD vAlign=center height=95> ");
 //document.writeln("            <P><A href=\"#\"><IMG height=95  ");
