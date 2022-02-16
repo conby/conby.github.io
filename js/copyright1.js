@@ -43,5 +43,5 @@ document.writeln("            face=\"Verdana, Arial, Helvetica, sans-serif\" col
 
 document.writeln("            size=2>|</FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" ");
 document.writeln("            size=2>&nbsp;</FONT> </P> ");
-document.writeln("            <P><SPAN class=smalltext>Copyright &copy;2004-2021 Conby Information Technology Co., Ltd.  All rights reserved. <br><a href='http://www.miibeian.gov.cn'><img src='images/conby-icp.gif' border=0></a></SPAN></P> ");
+document.writeln("            <P><SPAN class=smalltext>Copyright &copy;2004-2022 Conby Information Technology Co., Ltd.  All rights reserved. <br><a href='http://www.miibeian.gov.cn'><img src='images/conby-icp.gif' border=0></a></SPAN></P> ");
 document.writeln("");
