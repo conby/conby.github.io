@@ -14,7 +14,7 @@ document.writeln("            <P><A href=\"#\"><IMG ");
 document.writeln("            alt=IPv6 src=\"images/ipv6-launch.png\" border=0></A></P></TD></TR> ");
 document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 document.writeln("          <TD vAlign=center height=60> ");
-document.writeln("            <P><IMG alt=CDN src=\"http://qcloud-logo.png\" border=0></P></TD></TR> ");
+document.writeln("            <P><IMG alt=CDN src=\"https://v6.conby.com/jp/qc/qcloud-logo.png\" border=0></P></TD></TR> ");
 document.writeln("        <TR align=middle bgColor=#9ac8ec> ");
 document.writeln("          <TD vAlign=center height=8> ");
 document.writeln("            <P><IMG src=\"images/blank.png\" border=0 height=8></P></TD></TR> ");
