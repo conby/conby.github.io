@@ -38,6 +38,14 @@ Disallow: /MAINTAINERS.txt
 Disallow: /update.php
 Disallow: /UPGRADE.txt
 Disallow: /xmlrpc.php
+Disallow: /products*
+Disallow: /about*
+Disallow: /channel*
+Disallow: /contactus*
+Disallow: /index_*
+Disallow: /partners*
+Disallow: /services*
+Disallow: /solutions*
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
