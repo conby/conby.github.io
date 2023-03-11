@@ -46,6 +46,7 @@ Disallow: /index_*
 Disallow: /partners*
 Disallow: /services*
 Disallow: /solutions*
+Disallow: /about.html
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
