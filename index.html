@@ -451,16 +451,14 @@
               url: 'https://conby.cn/contactus',
               contentType: 'application/json; charset=utf-8',
               data: JSON.stringify(requestInJSON),
-              headers: { 'Access-Control-Allow-Origin': '*', 'Content-Type': 'application/json; charset=utf-8' },
+              headers: { 'Access-Control-Allow-Origin': '*' },
               dataType: 'json',
               type: 'POST',
               async: false,
               success: function (data, status, xhr) {
-                  //console.log(data,status, xhr);
                   $("#status").html(data["status"]);
               },
               error: function (xhr, status, error) {
-                  //console.log(xhr, status, error);
                   $("#status").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText);
               }
           });
