@@ -361,11 +361,12 @@
             </div>
             
             <div class="col-sm-12 col-md-6">
-              <form action="mailto:market@conby.com" method="get">
+	      <div id="status"></div>
+              <form action="/" method="get">
                 <input id="name" name="name" type="text" placeholder="Your Name" class="tm-input" required />
                 <input id="email" name="email" type="email" placeholder="Your Email" class="tm-input" required />
                 <textarea id="message" name="message" rows="8" placeholder="Message" class="tm-input" required></textarea>
-                <button type="submit" class="btn tm-btn-submit">Submit</button>
+                <button id="submit" type="submit" class="btn tm-btn-submit">Submit</button>
               </form>
             </div>
             
@@ -438,6 +439,32 @@
     <script src="js/jquery.singlePageNav.min.js"></script>     
     <script src="js/bootstrap.min.js"></script> 
     <script>
+
+      $("#submit").click(function (e) {
+          requestInJSON = {
+              name: $("#name").val(),
+              email: $("#email").val(),
+              message: $("#message").val()
+          };
+          $.ajax({
+              url: 'https://conby.cn/contactus',
+              contentType: 'application/json; charset=utf-8',
+              data: JSON.stringify(requestInJSON),
+              headers: { 'Access-Control-Allow-Origin': '*', 'Content-Type': 'application/json; charset=utf-8' },
+              dataType: 'json',
+              type: 'POST',
+              async: false,
+              success: function (data, status, xhr) {
+                  //console.log(data,status, xhr);
+                  $("#status").html(data["status"]);
+              },
+              error: function (xhr, status, error) {
+                  //console.log(xhr, status, error);
+                  $("#status").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText);
+              }
+          });
+          return false;
+      });
 
       function getOffSet(){
         var _offset = 450;
