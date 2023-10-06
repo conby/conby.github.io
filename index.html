@@ -442,6 +442,7 @@
 
       $("#submit").click(function (e) {
 	  e.preventDefault();
+	  $("#status").html('......');
           requestInJSON = {
               name: $("#name").val(),
               email: $("#email").val(),
