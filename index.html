@@ -440,9 +440,7 @@
     <script src="js/bootstrap.min.js"></script> 
     <script>
 
-      $("#submit").click(function (e) {
-	  e.preventDefault();
-	  $("#status").html('......');
+      function sendSubmit() {
           requestInJSON = {
               name: $("#name").val(),
               email: $("#email").val(),
@@ -456,15 +454,28 @@
               dataType: 'json',
               type: 'POST',
               async: false,
+      	      beforeSend: function() {
+            		  $("#status").html('🏃🏃🏃...');
+                  return true;
+              },
               success: function (data, status, xhr) {
                   $("#status").html(data["status"]);
               },
               error: function (xhr, status, error) {
-                  $("#status").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText);
+                  $("#status").html("" + status + " " + error + " " + xhr.status + " " + xhr.statusText);
               }
           });
           return false;
-      });
+      }
+
+      $("#submit").click(function (e) {
+          e.preventDefault();
+          $("#status").html('🏃🏃...');
+          setTimeout(() => {
+              sendSubmit();
+          }, 100);
+          return false;
+      }
 
       function getOffSet(){
         var _offset = 450;
