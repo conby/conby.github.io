@@ -693,22 +693,10 @@ p {
 }
 
 /* 2023 */
-.marquee-section {
-    position: relative;
-    min-height: 82px;
-}
-
-.marquee-section, .marquee-section * {
-    overflow: hidden;
-}
-
 .marquee {
     white-space: nowrap;
-}
-
-.marquee-div {
     position: absolute;
-    animation: move-right-to-left linear 1.0s infinite;
+    animation: move-right-to-left linear 1.0s infinite;    
 }
 
 /* use this one to move from left to right direction */
