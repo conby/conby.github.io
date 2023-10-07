@@ -695,8 +695,8 @@ p {
 /* 2023 */
 .marquee {
     white-space: nowrap;
-    position: absolute;
-    animation: move-right-to-left linear 2.5s infinite;    
+    position: relative;
+    animation: move-right-to-left linear 8.0s infinite;    
 }
 
 /* use this one to move from left to right direction */
