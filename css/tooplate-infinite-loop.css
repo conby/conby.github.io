@@ -696,7 +696,7 @@ p {
 .marquee {
     white-space: nowrap;
     position: absolute;
-    animation: move-right-to-left linear 1.0s infinite;    
+    animation: move-right-to-left linear 2.5s infinite;    
 }
 
 /* use this one to move from left to right direction */
